@@ -128,7 +128,7 @@ body {
 }
 
 .tm-button-normal:focus { outline: none; }
-.tm-bg-orange { background-color: #CC6733; color:white; }
+.tm-bg-orange { background-color: darkgray; color:white; }
 .tm-button-rounded { border-radius: 8px; padding-top: 12px; padding-bottom: 12px; }
 .tm-button-orange { background-color: #CC6733; }
 .tm-button-orange:hover,
