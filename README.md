@@ -8,11 +8,11 @@ like Hotels ,Clothes , tourist places , etc .
 
 template consists of four pages
 
-> *index.html file (home page)
-> *timeline.html containing time line for important events 
-> *about.html file that containing info about the company
-> *contact,html file that containing form to contact us
-> *Images folder that containing images used in the project
+> * index.html file (home page)
+> * timeline.html containing time line for important events 
+> * about.html file that containing info about the company
+> * contact,html file that containing form to contact us
+> * Images folder that containing images used in the project
 
 
 ### Installation guide
